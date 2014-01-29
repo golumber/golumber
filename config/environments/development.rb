@@ -41,7 +41,7 @@ GoLumber::Application.configure do
     port: 587,
     authentication: 'plain',
     user_name: 'golumber@gmail.com',
-    password: 'cs1s4me.'
+    password: 'Golumber1'
   }
       
   # Expands the lines which load the assets
